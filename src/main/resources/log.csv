@@ -1,0 +1,6 @@
+logType,timestamp,message
+Info,1632968163,This is an info message
+Error,1632968164,This is an error message
+Warning,1632968165,This is a warning message
+Debug,1632968166,This is a debug message
+Info,1632968167,FAILED
